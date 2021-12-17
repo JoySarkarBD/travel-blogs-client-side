@@ -1,12 +1,11 @@
-# Dream Cycle
+# Travel Blogs
 
-This is the live site link(https://dream-cycle-store.web.app/).
+This is the live site link().
 
 Admin mail: admin@admin.com </br>
 Admin password: 123456 
 
-This is my first niche-product-website project with simple react js and react bootstrap as css framework. This is a small full-tack project of my first try. I hope, I can create someting more better in future.
-
+Technology used
 <ul>
   <li>I build this site with react js and react bootstrap.</li>
   <li>I use mongodb as database.</li>
