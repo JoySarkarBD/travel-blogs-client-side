@@ -1,0 +1,23 @@
+.position{
+    position: absolute;
+    top: 40%;
+}
+.content-position{
+    display: flex;
+    align-items:center;
+    flex-direction:column;
+}
+
+.section{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: url(./bannerImg/1.jpg);
+    overflow: hidden;
+    background-size: cover;
+}
+.overlay{
+    width: 100%;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.637);
+}
