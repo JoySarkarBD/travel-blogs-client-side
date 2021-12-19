@@ -93,7 +93,7 @@ const Login = () => {
 
                     </div>
                     <div className="col-md-6 col-sm-12">
-                        <img src={img} className="w-75" alt="" />
+                        <img src="https://i.ibb.co/0tC0mWr/3.jpg" className="w-75" alt="" />
                     </div>
                 </div>
             </div>

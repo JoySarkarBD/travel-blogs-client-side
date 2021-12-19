@@ -9,7 +9,7 @@ const ViewBlogs = () => {
     const [blog, setBlogs] = useState({});
 
     useEffect(() => {
-        fetch(`http://https://pacific-chamber-72907.herokuapp.com/blogs/${id}`)
+        fetch(`https://pacific-chamber-72907.herokuapp.com/blogs/${id}`)
             .then((res) => res.json())
             .then(data => {
                 setBlogs(data)
