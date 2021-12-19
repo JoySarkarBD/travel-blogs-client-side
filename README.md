@@ -1,6 +1,6 @@
 # Travel Blogs
 
-I try to build this site with redux to handle state. But I have a little knowledge about redux. After gaining few more knowledge I will rebuild this project with redux. 
+I try to build this site with redux to handle state.
 This is the live site link(https://travel-blog-b4446.web.app/).
 
 Admin mail: admin@admin.com </br>
